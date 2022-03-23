@@ -15,7 +15,12 @@ This app makes it easy to display the current version of OpenCore and OCLP on yo
 
 The following Terminal commands are no longer necessary for this.
 
-<details> <summary> View Spoiler: (### Terminal commands given as a reminder)  </summary>
+
+### Terminal commands given as a reminder
+
+<details> <summary> View Spoiler: (Terminal commands)  </summary>
+
+
   - For displaying OpenCore version:
 ```
 nvram 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102:opencore-version
