@@ -13,7 +13,7 @@ This app makes it easy to display the current version of OpenCore and OCLP on yo
 
 <p align="center"><img width="400" alt="OpenCoreVersion.app_GUI" src="https://github.com/alphascorp/OpenCoreVersion/blob/main/Screenshots/Main%20GUI.png"></p>
 
-The following Terminal commands are no longer necessary for this (commands given as a reminder).
+The following Terminal commands are no longer necessary for this.
 
 ### Terminal commands given as a reminder
 
