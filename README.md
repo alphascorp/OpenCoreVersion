@@ -20,9 +20,6 @@ The following Terminal commands are no longer necessary for this.
 
 <details> <summary> View Spoiler: (Terminal commands)  </summary>
 
-
-
-
   - For displaying OpenCore version:
 ```
 nvram 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102:opencore-version
@@ -35,3 +32,26 @@ nvram 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102:OCLP-Version
 ```
 
 </details>
+
+
+:warning: ### Error message on first run
+
+The first time you run the program, you may get the following error message:
+Impossible to open "OpenCoreVersion.app" because this app comes from an unidentified developer.
+
+
+This attribute is added so that it can ask the user for confirmation the first time the downloaded program is run, to help stop malware. After confirmation, the attribute should be removed automatically, and then the program will run normally.
+
+To solve this, just remove this attribute (once and for all) with the following procedure:
+1. Open Terminal (Applications -> Utilities -> Terminal.app)
+2. Write or Copy/Paste (in Terminal) the following line
+```
+xattr -rd com.apple.quarantine 
+```
+3. Type a space
+4. Drag and drop "OpenCoreVersion.app" next to it, from the Finder
+
+
+## Credits
+
+[ How to remove com.apple.quarantine](https://discussions.apple.com/thread/3145071)
