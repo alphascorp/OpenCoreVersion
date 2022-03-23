@@ -8,7 +8,7 @@
 
 ### Easy to use
 
-- This app makes it easy to display the current version of OpenCore and OCLP on your system without using the Terminal commands for that.
+This app makes it easy to display the current version of OpenCore and OCLP on your system without using the Terminal commands for that.
 
 ### Main Graphic User Interface
 
