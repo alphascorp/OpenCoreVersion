@@ -40,7 +40,7 @@ The first time you run the program, you may get the following error message:
 Impossible to open "OpenCoreVersion.app" because this app comes from an unidentified developer.
 
 
-This attribute is added so that it can ask the user for confirmation the first time the downloaded program is run, to help stop malware. After confirmation, the attribute should be removed automatically, and then the program will run normally.
+This is because an attribute is added so that it can ask the user for confirmation the first time the downloaded program is run, to help stop malware. After confirmation, the attribute should be removed automatically, and then the program will run normally.
 
 To solve this, just remove this attribute (once and for all) with the following procedure:
 1. Open Terminal (Applications -> Utilities -> Terminal.app)
