@@ -1,4 +1,4 @@
-# OpenCoreVersion ([Download](https://github.com/alphascorp/OpenCoreVersion/files/8333877/OpenCoreVersion.app.zip))
+# OpenCoreVersion ([Download](https://github.com/alphascorp/OpenCoreVersion/files/8334539/OpenCoreVersion.2.2.1.dmg.zip))
 
 ---
 
