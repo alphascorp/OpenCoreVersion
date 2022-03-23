@@ -34,7 +34,7 @@ nvram 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102:OCLP-Version
 </details>
 
 
-:warning: ### Error message on first run
+### :warning: Error message on first run
 
 The first time you run the program, you may get the following error message:
 Impossible to open "OpenCoreVersion.app" because this app comes from an unidentified developer.
