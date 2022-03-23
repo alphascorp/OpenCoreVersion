@@ -51,6 +51,7 @@ xattr -rd com.apple.quarantine
 3. Type a space
 4. Drag and drop "OpenCoreVersion.app" next to it, from the Finder
 
+Now the program will run normally.
 
 ## Credits
 
