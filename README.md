@@ -42,7 +42,7 @@ Impossible to open "OpenCoreVersion.app" because this app comes from an unidenti
 
 This is because an attribute is added so that it can ask the user for confirmation the first time the downloaded program is run, to help stop malware. After confirmation, the attribute should be removed automatically, and then the program will run normally.
 
-To solve this, just remove this attribute (once and for all) with the following procedure:
+But if the program does not run, just remove this attribute (once and for all) with the following procedure:
 1. Open Terminal (Applications -> Utilities -> Terminal.app)
 2. Write or Copy/Paste (in Terminal) the following line
 ```
