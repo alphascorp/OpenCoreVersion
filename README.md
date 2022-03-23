@@ -11,9 +11,20 @@
 This app makes it easy to display the current version of OpenCore and OCLP on your system with a simple interface.
 
 
+<p align="center"><img width="400" alt="OpenCoreVersion.app_GUI" src="https://github.com/alphascorp/OpenCoreVersion/blob/main/Screenshots/Main%20GUI.png"></p>
+
 The following Terminal commands are no longer necessary for this (commands given as a reminder).
 
-### Main Graphic User Interface
+### Terminal commands given as a reminder
 
-<p align="center"><img width="400" alt="OpenCoreVersion.app_GUI" src="https://github.com/alphascorp/OpenCoreVersion/blob/main/Screenshots/Main%20GUI.png"></p>
+  - For displaying OpenCore version:
+```
+nvram 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102:opencore-version
+```
+
+
+  - For displaying OCLP version:
+```
+nvram 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102:OCLP-Version
+```
 
