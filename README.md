@@ -10,7 +10,7 @@
 
 - This app makes it easy to display the current version of OpenCore and OCLP on your system without using the Terminal commands for that.
 
-### Main GUI
+### Main Graphic User Interface
 
 <p align="center"><img width="400" alt="OpenCoreVersion.app_GUI" src="https://github.com/alphascorp/OpenCoreVersion/blob/main/Screenshots/Main%20GUI.png"></p>
 
