@@ -53,6 +53,9 @@ xattr -rd com.apple.quarantine
 
 Now the program will run normally.
 
+#### :white_check_mark: Scanned with ClamXav and guaranteed virus and malware free. :white_check_mark:
+
+
 ## Credits
 
 [ How to remove com.apple.quarantine](https://discussions.apple.com/thread/3145071)
